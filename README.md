@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey, I'm Oğuzhan 👋
 
-<!--
-**oguzhandemirkaya/oguzhandemirkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer based in Turkey. 🇹🇷 I enjoy building simple and efficient solutions, and I love exploring technology and creative coding. 💻✨
 
-Here are some ideas to get you started:
+### Open Source Work 🚀
+Small just-for-fun open source projects I've been working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 **[DOD Translate](https://github.com/oguzhandemirkaya/dod-translate)** - A tool to translate video subtitles from platforms like Coursera and Udemy.
+- 📅 **[Event Scheduler - GApps](https://github.com/oguzhandemirkaya/EventScheduler-GApps)** - A CRM panel for client management and Google Calendar event scheduling.
+- ⚖️ **[Themis Law Web](https://github.com/oguzhandemirkaya/themis-law-web)** - An interactive 3D web experience for a law firm, developed using Three.js.
+- 🌐 **[DOD Byte Website](https://github.com/oguzhandemirkaya/dodbytewebsite)** - A modern, performance-focused website built with the latest web technologies.
+
+### Technologies I Use 🛠️
+
+- **Frontend**: JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS
+- **Backend**: Node.js, Express.js, GraphQL, PHP, MySQL, PostgreSQL
+- **Other**: Google Apps Script, Git, REST APIs, AWS, Postman
+
+Feel free to check out my work or get in touch! ✉️ me@oguzhandemirkaya.com

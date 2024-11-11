@@ -1,6 +1,6 @@
 ## Hey, I'm Oğuzhan 👋
 
-"I'm a developer based in both Ankara and Istanbul. I enjoy building simple and efficient solutions, and I love exploring technology and creative coding. 💻✨
+I'm a developer based in both Ankara and Istanbul. I enjoy building simple and efficient solutions, and I love exploring technology and creative coding. 💻✨
 
 ### Open Source Work 🚀
 Small just-for-fun open source projects I've been working on:

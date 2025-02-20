@@ -10,7 +10,7 @@ Small just-for-fun open source projects I've been working on:
 - ⚖️ **[Themis Law Web](https://github.com/oguzhandemirkaya/themis-law-web)** - An interactive 3D web experience for a law firm, developed using Three.js.
 - 🌍 **[DOD Byte Website](https://github.com/oguzhandemirkaya/dodbytewebsite)** - A modern, performance-focused website built with the latest web technologies.
 - 🎨 **[Personal Portfolio](https://github.com/oguzhandemirkaya/webisteod)** - A modern and interactive personal portfolio website showcasing my work and skills.
-- 👕 **[3D T-Shirt Customization](https://github.com/oguzhandemirkaya/tsihrt)** - A web-based tool that allows users to customize T-shirts in a 3D environment using Three.js.
+- 👕 **[3D T-Shirt Customization](https://github.com/oguzhandemirkaya/tshirt)** - A web-based tool that allows users to customize T-shirts in a 3D environment using Three.js.
 
 ### Technologies I Use 🛠️
 
